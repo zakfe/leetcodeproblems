@@ -102,3 +102,6 @@ ll.insertAt(500,0)
 
 
 ll.printListData()
+
+
+ll.val()
