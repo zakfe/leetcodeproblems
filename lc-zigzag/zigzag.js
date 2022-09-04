@@ -13,5 +13,5 @@ var convert = function(s, numRows) {
 };
 
 console.log(convert(s,2))
-
+//not completed || understand
 
